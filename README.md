@@ -1,12 +1,12 @@
 # libs
 
 # Controls
-- react-select - The Select control for React
-- formik - THe Form control for react
+- <strong>react-select</strong> - The Select control for React
+- <strong>formik</strong> - THe Form control for react
 
 # Controls
 - <strong>react-responsive</strong> - Media queries in react for responsive design
-- yup - Yup is a JavaScript schema builder for value parsing and validation
+- <strong>yup</strong> - Yup is a JavaScript schema builder for value parsing and validation
 
 # CSS
-A utility-first CSS framework for rapidly building custom user interfaces
+<strong>tailwindcss</strong> - A utility-first CSS framework for rapidly building custom user interfaces
