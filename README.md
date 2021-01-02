@@ -2,7 +2,8 @@
 
 # Controls
 - <strong>react-select</strong> - The Select control for React
-- <strong>formik</strong> - THe Form control for react
+- <strong>formik</strong> - The Form control for react
+- <strong>swiperjs</strong> - Configurable and easy to use <b>slider</b>
 
 # Controls
 - <strong>react-responsive</strong> - Media queries in react for responsive design
